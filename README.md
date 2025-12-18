@@ -1,4 +1,13 @@
-# Fantastic Index 🚀
+# Fantastic Index 🚀 ![authoor](https://img.shields.io/badge/By:-R._iliya-green)
+
+![GitHub stars](https://img.shields.io/github/stars/R-iliya/fantastic-index?style=flat&color=4A2BE3)
+![GitHub forks](https://img.shields.io/github/forks/R-iliya/fantastic-index?style=flat&color=4A2BE3)
+![GitHub issues](https://img.shields.io/github/issues/R-iliya/fantastic-index?style=flat&color=4A2BE3)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/R-iliya/fantastic-index?style=flat&color=4A2BE3)
+![GitHub license](https://img.shields.io/github/license/R-iliya/Axon?style=flat&color=4A2BE3)
+![GitHub last commit](https://img.shields.io/github/last-commit/R-iliya/NoxeBrowser?style=flat&color=4A2BE3)
+
+
 
 **PHP-Based Modern File Explorer** with sleek design and cloud-drive-like functionality. Browse folders, view files, create new folders, rename or delete items, and more - all in a smooth, interactive interface.
 
