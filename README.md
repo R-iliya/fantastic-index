@@ -70,3 +70,47 @@ It gives off serious **local cloud storage** vibes while staying ridiculously li
 3. Make sure the directory has write permissions:
    ```bash
    chmod -R 755 /your/folder
+   ```
+4. Open it in your browser → Fantastic index appears ✨
+
+---
+
+## How to Use
+
+- **Browse**: Click any folder name to enter it
+- **Search**: Just start typing
+- **Sort**: Pick from the dropdown
+- **New Folder**: Click the big `+ New Folder` button
+- **Rename/Delete**: Use the buttons on each card
+- **Theme**: Toggle Light/Dark anytime
+
+Everything feels fast and modern.
+
+---
+
+## Tech Stack
+
+- Pure PHP 8+ (backend + AJAX handlers)
+- Vanilla JavaScript + modern CSS (custom properties, nice transitions)
+- Single file design philosophy
+
+---
+
+## Planned / Coming Soon
+
+- Better path navigation (breadcrumbs + deeper browsing)
+- Drag & drop file uploads
+- Basic password protection
+- Richer previews (images, text content, etc.)
+
+---
+
+## License
+
+**Unlicense** — Do whatever you want with it.
+
+---
+
+**Built with passion by [R. Iliya](https://github.com/R-iliya)**
+
+If this makes your local dev life nicer, drop a star ⭐ — it helps a lot!
