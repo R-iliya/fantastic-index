@@ -25,7 +25,7 @@
 
 ## ⚠️ Critical Warning
 
-This tool gives you **real filesystem power** — create, rename, and **permanently delete** files & folders.
+This tool gives you **real filesystem power** | create, rename, and **permanently delete** files & folders.
 
 - Only use in safe/test environments
 - Never run on production servers with real data
@@ -37,13 +37,13 @@ This tool gives you **real filesystem power** — create, rename, and **permanen
 
 ## Why It Feels So Good
 
-- **Instantly beautiful** — Clean cards, smooth hover lifts, premium feel
+- **Instantly beautiful** | Clean cards, smooth hover lifts, premium feel
 - **Light & Dark mode** that remembers your preference
-- **Live search** — Type and watch items disappear in real-time
-- **Smart sorting** — A→Z, Newest, Oldest — all client-side and buttery smooth
+- **Live search** | Type and watch items disappear in real-time
+- **Smart sorting** | A→Z, Newest, Oldest | all client-side and buttery smooth
 - **Hover previews** built into the clean card design
 - **Zero page reloads** for create/rename/delete thanks to clean AJAX
-- **Truly single file** — One `index.php`. Drop it. It just works.
+- **Truly single file** | One `index.php`. Drop it. It just works.
 
 It gives off serious **local cloud storage** vibes while staying ridiculously lightweight.
 
@@ -107,10 +107,10 @@ Everything feels fast and modern.
 
 ## License
 
-**Unlicense** — Do whatever you want with it.
+**Unlicense** | Do whatever you want with it.
 
 ---
 
 **Built with passion by [R. Iliya](https://github.com/R-iliya)**
 
-If this makes your local dev life nicer, drop a star ⭐ — it helps a lot!
+If this makes your local dev life nicer, drop a star ⭐ | it helps a lot!
