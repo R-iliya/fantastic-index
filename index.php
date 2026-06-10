@@ -59,7 +59,7 @@ foreach($files as $file){
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Projects</title>
+<title>Index</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <style>
 :root {
@@ -262,10 +262,10 @@ button:hover {
 </style>
 </head>
 <body>
-<h1>Projects</h1>
+<h1>Index</h1>
 
 <div class="controls">
-    <input type="text" id="search" placeholder="Search projects...">
+    <input type="text" id="search" placeholder="Search Files...">
     <select id="sort">
         <option value="az">A → Z</option>
         <option value="za">Z → A</option>
